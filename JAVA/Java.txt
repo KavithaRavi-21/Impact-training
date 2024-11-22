@@ -1,0 +1,68 @@
+Name:Kavitha R
+Domain:Testing
+
+JAVA
+TASK
+1)Dictionary:
+In Java, a dictionary is a collection of key-value pairs, where each key is unique, and each key is mapped to exactly one value.
+2)Hashset:
+Purpose: A HashSet is a collection that stores unique elements, without any specific order.
+Interface: Implements Set interface.
+Ordering: It does not maintain any order of the elements. The order can change when elements are added or removed.
+Performance: It provides constant-time performance for add(), remove(), and contains() .
+Duplicates: Does not allow duplicate elements.
+Hashmap:
+Purpose: A HashMap is a collection of key-value pairs, where each key is unique, and each key is mapped to a value.
+Interface: Implements the Map interface.
+Ordering: It does not maintain any order of the entries.
+Performance: Provides constant-time performance for basic operations such as get(), put(), and remove().
+Duplicates: Keys must be unique, but values can be duplicated.
+TreeSet
+Purpose: A TreeSet is a Set that stores elements in a sorted order. It is based on a red-black tree.
+Interface: Implements the Set interface.
+Ordering: It maintains the elements in sorted order (according to their natural ordering or by a comparator provided during set creation).
+Performance: The basic operations like add(), remove(), and contains() , because of the tree structure.
+Duplicates: Does not allow duplicate elements.
+Interface:
+An interface is a reference type which is  similar to a class, that is used to define a set of abstract methods that a class must implement. An interface can also contain constants and default methods.
+Class:
+a class is a blueprint or template for creating objects. It defines the properties (attributes) and behaviors (methods) that objects created from the class will have.Fields (Attributes),Methods (Behaviors).
+3)Why interface is base?
+ An interface is considered base because it defines a contract or blueprint that classes must follow, without specifying how the methods should be implemented, such as defines behavior,supports polymorphism,multiple inheritance.
+4)Why map is not in the collection:
+Map interface is not a part of the Collection framework for a specific reason related to its fundamental design and behavior, even though it is part of the java.util package like other collection types.
+5)15 Interfaces in java:
+Comparable
+Comparator
+Runnable
+Cloneable
+Serializable
+Iterable
+Collection
+List
+Set
+Map
+Queue
+Deque
+Iterator
+AutoCloseable
+EventListener
+6) throw:
+The throw keyword is used to explicitly throw an exception from a method or a block of code. 
+You use the throw keyword when you want to explicitly throw an exception in your program.such as Validation Failure,Custom Exception HandlingError Handling.
+When you use throw, you create an instance of a class that extends Throwable, like Exception or RuntimeException, and this exception is thrown immediately.
+throws:
+The throws keyword is used in a method signature to declare that a method may throw one or more exceptions during its execution. 
+You use throws in a method declaration to specify that the method might throw one or more exceptions that are either checked exceptions or subclasses of Exception.
+When you use throws, you list the exceptions that your method may throw in the method signature. The calling method must either catch those exceptions or propagate them further.
+7)Rule to declare interface name starts with 'i' and ends with 'able'
+The "I" prefix and "able" suffix for interface names is a convention used by some developers to make it clear that:
+The name represents an interface because it starts with "I".
+The interface describes an ability or capability because it ends with "able".
+It provides a quick understanding of what the interface represents and what kind of behavior it encapsulates.
+Examples:
+IReadable
+IWritable
+IRunnable
+
+
