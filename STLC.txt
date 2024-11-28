@@ -1,0 +1,49 @@
+Name:Kavitha R
+Domain:Tesitng
+STLC
+STLC-Software Testing Life Cycle
+Testing is a software application to ensure that it meets the requirements and is free of defects and also its a well structured sequence to ensure software quality.
+Importance of STLC:
+Defect prevention-Identifying and resolving defects in the development cycle.
+Standardized process-Provides a repeatable process 
+Stakeholder confidence-Trust the systems reliabilty and performance.
+Alignment with SDLC-Complements the SDLC for seamless project execution.
+Stages Of The STLC:
+Requirement analysis
+Test planning
+Test case Development 
+Test Environment Setup 
+Test Execution
+Test closure
+Planning:
+Understand functional and non-functional requirements.
+Requirement Traceability Matrix (RTM)
+ Quality Assurance Team working based 
+Test Planning:
+ Develop test strategy and determine the testing schedule.
+ Test Plan Document detailing roles, responsibilities, purpose
+of testing, risks, and dependencies.
+ Testing Manager collaborates with the Quality Assurance team.
+Test Case Development:
+ Design detailed test cases and identify test data.
+ Test Cases and Test Data.
+Test Environment Setup
+ Prepare and configure the test environment.
+ Environment Setup Checklist and readiness confirmation.
+ Testing team.
+Test Execution
+ Execute test cases and compare actual results with expected results.
+Tools Used: JIRA, Bugzilla.
+ Testers and Test Managers for monitoring and assistance.
+Test Closure
+ Finalize testing activities and prepare a summary report.
+ Test Summary Report and Lessons Learned Document.
+ Testing Manager and Quality Assurance team.
+Key Deliverables in Each Phase:
+Requirement Analysis: RTM.
+Test Planning: Test Plan Document.
+Test Case Development: Test Cases and Test Data. Test Environment Setup: Environment Setup Checklist. Test Execution: Defect Reports, screenshots.
+Test Closure: Test Summary Report, Lessons Learned Document.
+
+
+
